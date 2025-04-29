@@ -1,10 +1,27 @@
-# rock-paper-scissors
-live: https://lookingcoolonavespa.github.io/rock-paper-scissors/
+# Rock Paper
 
-Rock paper scissors game where you play against the computer.
+## Deskripsi
 
-What I learned
-- how to randomly select items out of an array
-- how to animate words (by splitting each individual character into their own span)
-- how to use .animate()
-- you can use a variable in place of document to select a query
+Game suit yang memungkinkan user untuk melawan komputer dalam permainan 1 lawan 1
+
+## ScrenShot
+
+![Screenshot](/ss.jpg)
+
+## Fitur
+
+Fitur untuk memilih senjata yang akan digunakan di dalam game, pengguna juga dapat merestart game ketika menginginkan agar skor kembali menjadi 0 - 0
+
+## Teknologi yang Digunakan
+
+- HTML
+- CSS
+- JavaScript
+
+## Kontributor
+
+- [Reza](https://github.com/ecacantdead)
+
+```
+
+```
