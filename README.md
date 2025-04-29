@@ -6,7 +6,7 @@ Game suit yang memungkinkan user untuk melawan komputer dalam permainan 1 lawan 
 
 ## ScrenShot
 
-![Screenshot](/ss.jpg)
+![Screenshot](/ss.JPG)
 
 ## Fitur
 
