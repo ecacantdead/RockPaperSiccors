@@ -2,7 +2,7 @@
 
 ## Deskripsi
 
-Game suit yang memungkinkan user untuk melawan komputer dalam permainan 1 lawan 1
+Game suit yang memungkinkan user untuk melawan komputer dalam permainan 1 lawan 1 dengan beberapa pilihan senjata
 
 ## ScrenShot
 
